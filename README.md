@@ -1,2 +1,2 @@
-# avatars
-@timandco user avatar images.
+# assets
+@timandco asset files.
